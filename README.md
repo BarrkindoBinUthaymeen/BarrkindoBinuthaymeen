@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Barrkindo Bin-Uthaymeen from Nigeria base at Kaduna state, am a frontent developer<br><br>- 🔭 I’m working on a Todo list<br>- 📚 I'm currently learning HTML, CSS and JS<br>- ⚡ In my free time I learn more from AI</p>
 
 ###
 
